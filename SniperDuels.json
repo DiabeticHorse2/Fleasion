@@ -1,0 +1,4221 @@
+﻿{
+  "locale": "source",
+  "translationMapping": [
+    {
+      "key": null,
+      "context": null,
+      "source": " Fri, December {number1}th, {number2}",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9c2e3810-7646-4e1a-be4e-8f09d5670ef5"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": " Fri, January {number1}th, {number2}",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a01bb5a4-4604-4f15-b231-64749d2cf2ac"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": " Sat, December {number1}th, {number2}",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3a4055a5-fbf4-4691-b174-6d0ba417a7b6"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": " SKIN",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e0ba602f-9dd2-4570-9135-2d2c44c46709"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": " Sun, January {number1}th, {number2}",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "968c9079-22b4-4fe2-b28a-f0eff4fbe50f"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": " Thu, December {number1}th, {number2}",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d09cc3b1-f443-45c9-8615-c2a6150b0780"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": " Wed, January {number1}st, {number2}",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "32a9c07d-37bd-47d5-8a5a-1631cefe5738"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "! DANGER ZONE !",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a61a4d00-dc63-41c2-9034-b31db4ee089c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "'# ONLINE' text in the Gamemodes menu now properly displays how many players are online.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "45a8a35a-513f-4ac3-9178-bf6ca80a9384"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "\"A Broken Home\"",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "44f61d56-f576-4dbc-aa34-ddafd8dddac9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "\"Blockout\"",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "fec2253f-c450-44ee-b4ff-9e7a3dc415ce"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "\"Gamemodes\" tab removed from private servers.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e3a1f594-2d66-490e-93f1-2f99b363bde5"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "\"Penthouse\"",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "2024c5a6-859e-409e-88f6-ecec5b4aa80a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "\"Scope Hidden\" setting now accounts for weapons with highlights (True Inverted, True White, etc). The scope visibility change will take effect immediately when aiming in/out, rather than having a smooth transition.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a2c436e1-de32-49d4-b729-dd86d6e21db2"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "\"TOP SUPPORTERS\" leaderboard added.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "02527cdf-e527-4e30-9181-b7a6145dfc6c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "\"Tower Plaza\"",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "06e086d9-d43d-4b59-a690-beee1db057b0"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "\"Untitled\"",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "fa482c05-38fe-4b71-969f-99eb24cc9458"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "\"Urban Nation\"",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b7664aa0-411f-4dd0-8977-96b0cbeb11ab"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "(yes this is just bombline's prototype knife but you will get something cooler in the future ok !!)",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "56682b80-f08a-494d-9134-f052ec8eb5dc"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ ACHIEVEMENTS ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f74384af-e64b-4bba-affa-f060b709c3ae"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ CASES ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5fef7334-c256-4ef0-8cfb-e90215fbeccb"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ CHANGES ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "fd93043c-f64b-4137-b042-23344cbb2851"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ COLLECTABLES ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "24ab4a93-f2c6-4c66-84a7-6f6b4982dbb7"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ FESTIVES ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "2527e555-05b5-4929-b406-95f99e399b5a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ FIXES ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d189d6a5-75d1-41d8-9f9e-99329db00d68"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ FREE FOR ALL ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4ff05e01-0580-4661-ab52-d34c5f0aca1e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ FREE-FOR-ALL ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "724ec736-8358-4a4a-9301-bf091dd0e795"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ GAMEPLAY ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b8a20bc8-ef70-4516-9082-a477bbf0075e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ HUD ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3edfe966-73a6-4b2f-bc1a-9596126ff3f1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ LIMITED-TIME MODES ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e2fb1419-5d2c-436c-be41-90fcb6af1dd0"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ LOBBY ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b704221e-6640-48c9-8363-986a559d37b9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ MAPS ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "531486cf-a797-4a99-acbf-03cf33c53b54"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ MATCHMAKING ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "326e20a9-cb73-4339-b3fa-3302968be873"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ MISC ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "77ba174c-b7bf-4577-a608-9f1a041a5486"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ MOVEMENT ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0f6ee55f-d2e4-4301-b07d-7e89b9025d67"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ NEW ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "1da56eb0-cea7-475b-bb5a-1a70a74a49aa"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ POOL ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "74b650a7-5745-48ed-b7a4-a725291e40ef"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ SETTINGS ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "1756f8d1-fa47-40c8-a763-a1c01eb15595"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ SKINS ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7f346846-4b99-478b-9bfe-9d2f120ad77a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ SKINS / CASES ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b722bb6a-1a51-4c78-8139-8b49fce858f3"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ SOUNDS ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a00a81b3-a75d-4fa8-9221-0395e26b77aa"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ TRADING ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "aaf0a607-d36c-4375-bef8-77bfcbcb0f9a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[ VISUALS ]",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "619ae78d-f317-4796-beec-864497c73428"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "[OnlyTwentyCharacters]: Hi",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "326f168c-da9e-4c5b-828b-2146f325d2e3"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "{number1} SEC",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e2185550-2539-479a-a314-19eab899e0f2"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "• \"TOP SUPPORTERS\" leaderboard added.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "fe0e3f59-2605-49eb-9566-b87eef1f15ed"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ AWP | CELTIC",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "550fb698-06b0-4059-8632-fd2079361b09"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ AWP | FOR HER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ee000d87-0405-4670-a743-cf93b2c3b88b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ AWP | FOR HIM",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f88a5af8-bb15-4048-be0b-57f12ee012ee"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ AWP | FORGOTTEN DYNASTY",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "61e0b2b8-df91-41c9-8339-5171319732eb"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ BAYONET | CRIMSON WEB",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e71d6aa4-2c9c-4ebc-9217-3a65c081fb9e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ BAYONET | PEPPERMINT",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "74f2480e-61dd-4a8d-8e52-39f8709c7285"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ BAYONET | TIGER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d5dc98bf-9f69-486e-adb3-c4d4bdcf3ab5"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ BUTTERFLY | BLUE CAMO",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "df0775cf-5c5c-4c7b-a308-eff537e6e31b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ BUTTERFLY | VANILLA",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ba1c6bf8-7d09-4d00-96c7-2080479279a5"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ BUTTERFLY | VELVET",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "bec74b66-6834-4910-b148-14a0b7ebe8cf"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ DEAGLE | CELTIC",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "45fc3870-1087-4150-a9db-3c57ce7cf920"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ DEAGLE | FRUTIGER METRO",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0d1cc4db-f6c9-43ba-ab3a-f603a6e24f26"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ DEFAULT | BLUESTEEL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "336dca5f-166f-4646-ac3d-bf3e10551e5f"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ DEFAULT | ETHEREAL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0f8d1d8c-de98-47d1-9853-5ccf4dc51b5b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ DEFAULT | ROSE GOLD",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "59075b42-2654-487e-9edc-131f7a7044ed"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ EXECUTIONER | ARCANE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "51af3f19-549f-4920-baaf-c600d2f5ddfd"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ EXECUTIONER | ASCII WHITE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a5435a01-8741-4505-a663-15720ca16cd3"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ EXECUTIONER | BLOSSOM",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5994fc6b-f72e-41ee-be8a-6b61723481f8"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ EXECUTIONER | FROSTBITE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "95bee83c-c228-4e20-a230-1be975ddcfac"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ INTERVENTION | FRUTIGER AERO",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ba2c8abc-36cb-4590-a0bd-fb8935e9881a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ INTERVENTION | PEPPERMINT",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c2f4fd49-a19e-4db7-92d6-a92ae2afb456"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ INTERVENTION | VAPORWAVE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8b92c556-f0c8-4414-ac84-376d8a15a097"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ KARAMBIT | PEPPERMINT",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "090dbbe0-3614-4dd2-9c86-ce603d34eadd"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ KARAMBIT | ROSE FADE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c1355f10-0717-4feb-a956-962d1db96a12"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ KARAMBIT | TIGER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ae9bf112-21ef-449c-adc4-2c5f22255a2e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ KARAMBIT | VANILLA",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "bb4b14dc-f189-492c-91aa-52939317eb7e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ MINI FIX | LIGHTNING",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a013a088-9f34-4b7a-88dd-3e110fe29354"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ SURVIVOR | BLUESTEEL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "36ba09c4-dd6e-4daf-bfa5-81f1a57d0763"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ SURVIVOR | HEARTBREAK",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "6c132b44-33bf-4a9f-a080-2875a65c84e0"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ SURVIVOR | VANILLA",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9d097a87-9343-4307-9974-9092d838b95b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ THE FIX | SKYLINE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f0c9cd8f-4eea-4798-b746-4f6a5770dc32"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ VKS | BLOXY COLA",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "bbed6d76-6276-43fb-a3b3-c8239c4f96fb"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ VKS | WITCHES BREW",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "286de629-ed1e-41c2-a9b1-561eda7ac3d6"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "A brand new skin case and two new collectables (Ascii White and Frostbite) have been added. Both the case and the collectables feature the new Deagle model.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "79640bf4-c789-4be4-a021-3bd333b2289d"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "A new tab has been added in the settings menu for editing your crosshair. Spectators will also be able to see your custom crosshair as well.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "fdaf875b-1d2b-4a5d-861c-d20c90d4b495"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Abusable map spots fixed.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b6a159b3-58f9-4220-969a-60399c03a6c1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Achievements",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "db66bee6-e4e4-40c3-aa87-9b2a4ec62fc4"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Achievements have been added.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "2c99a2bb-45ad-4bef-b207-f9aa1a8b1bd3"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added \"Godlike Shot\" achievement.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3df4e966-6126-4782-a440-b3930818c9ec"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added \"Guardian Angel\" achievement.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "763e76aa-67de-4c1e-9080-4d040674ec36"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added \"Kill Milestone Mastery\" achievement.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "627a2b1a-135b-48cb-98c1-744ae9b639fb"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added \"The Infection Spreads\" achievement.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b0ebef90-483e-4e6c-89c2-424e8847bb76"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added a cooldown for accepting a trade.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e1ca3294-5ac7-4020-b5c1-44f72b790239"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added a hacky fix for the chat bug.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "cefb6f75-0c29-44cd-8103-ec4d4b23e760"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added a match cooldown penalty for players who keep abandoning matches.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a9775dad-971d-4aad-8896-aeb68252a792"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added a new [ AFK ] tag over players heads in the lobby to show when they are tabbed out of the game.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "25a4f12f-6c39-4401-bdc0-94f0765924b0"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added a new {number1} digit account pin feature that adds an extra layer of security for your SNIPER DUELS items. You can find this in your settings. NEVER share your PIN or backup codes.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a0812618-a12b-4930-a841-ffba9eac90ac"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added a new gamemodes button to navigation.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "71395515-3ba7-408e-b7d7-95e3713b83de"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added a new limited case: CHRISTMAS PRESENT {number1}.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0e73372c-9391-460f-8492-f083a404cffe"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added a new setting for sensitivity.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c1ee51e9-a02b-417c-9f20-f58832c77e1e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added a new side menu for the Settings window that allows for faster navigation.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "24cc693d-1e00-48fd-8720-264c4483d751"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added a quick-swap button to mobile controls.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ffa0f7ac-9f47-4749-ad1e-53f3a13532b4"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added a small camera offset to crouching to fix \"headglitches\".\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b5503c3e-0195-4ace-9e0a-0eb63f7f9bfd"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added a ticking sound for when the round timer is close to zero.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5be1487a-5fc1-499b-b568-03d26d5b3bf9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added April Fools {number1} case.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "28c50f59-d546-440c-9116-ace4b8c8e287"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added chat display to the trade window.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3899d090-f189-48f3-9861-4a5769d148d2"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added collectables for the semifinalists of this years world cup.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "1b572447-e934-4a6e-94de-95ae51c39917"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added crosshair editing.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "67c62ec5-202b-48e3-8834-1e8c717a61f6"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added Flappy Box",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e2cc12f1-6cb2-4152-ba59-083e2f300a99"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added gifting and bulk purchasing for cases.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d4e79be1-f9af-412f-9359-cf1b09980a1c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added K/D and DEATHS stats when viewing your own stats.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "51561232-1476-4342-a593-262971c4cc0a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added new \"RETRO TONEMAPPING\" visual setting.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0c6d5f62-6a7a-4442-80a5-a8932d78bd12"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added new inventory filters that allow you to display only items with Fragtrakr, FX, or Festive attributes.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "101ce9a1-c075-47ff-9bdd-9c74e9443707"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added new skin case: Skin Case #{number1}.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "455c947c-6e95-4b3a-ae1b-36d6bc97c340"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added POOL DUELS to the trading hub. Enjoy.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0c069d86-d3c8-4b1c-9526-834171858650"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added the ability to buy more inventory slots. (Max: {number1})",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "abe5448a-c0c5-4e54-b012-fc8e89bee7de"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added the ability to inspect other players skins when looking at their stats.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d6dda0fb-8ee3-4716-b60d-963842505e9c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added the ability to request items from players inventories during trades.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f453dd69-dabd-4aec-918a-104115cec879"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added the Bank map.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d8649854-6a45-4c9f-9df1-bbd3a6bed8ad"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added the Gulag map.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5d2b666f-6b5b-41c9-a6d7-53887efb14d2"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added the Gulag map.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8cda35d1-cdde-4f58-9890-ad3ced7d31de"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added the Lakehouse map.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "bbdfba01-959c-4520-9062-3982cc184226"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added the Limited-Time Mode system that shuffles between gamemodes every {number1} days.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "10850608-e1a7-4421-8cc0-a6e90b2b89b8"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added Top Supporter rewards.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "1a964ec0-bf85-4604-806a-8e631f657ab1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added two new limited collectables: Peppermint AWP and Peppermint Intervention.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5068f0c0-6b09-4f4c-8256-59bd5c688370"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added two new limited time collectables: BLOXY COLA VKS, and WITCHES BREW VKS.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "dea11571-a466-44b6-886f-f2e57d8cd6a6"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added two new limited time collectables: Frutiger Aero Intervention, and Frutiger Metro Deagle.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c635266a-8e68-4dc1-9818-27b08c3566a7"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added two new limited-time collectables: BLOXY COLA VKS, and WITCHES BREW VKS.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c536a106-6573-4cea-8622-857c954c7641"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Added two new limited-time collectables: Frutiger Aero Intervention, and Frutiger Metro Deagle.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d3f003ce-4cd8-435b-ab45-3ace0a3856a8"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Adjust Power",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8fee3758-af72-46a4-a5ce-85f3fbf2f7b1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Adjust Spin",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f169714c-96e9-4f11-a1f0-91968457253b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Adjusted certain UI to comply with ROBLOX's upcoming lootbox changes.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "82300ad8-783a-42f3-9711-ba624e781de2"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Aim Cue",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0ac6288f-2812-4f71-acf1-39f33a376a8c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "All purchases, trading and skin upgrades become disabled temporarily if the server experiences an increase in player data related errors.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3ca1ffa1-5442-41aa-abb9-4f73b06c7c6e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "ALTUS",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "51bbd23b-2e19-4d2b-97bf-ad6623e14705"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AMMUNITION  ZERO",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "01b042d1-49bb-490c-bcf7-7d075a8b6b29"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AMMUNITION LOW",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4eb91602-ba57-4aaf-b652-cebefe2f86e1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "and",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5b94fd5e-8e35-4489-9e9d-50f2e2954480"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "ARCANE SKIN",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "af81d90e-6504-421f-b09d-968baf9a8f6d"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "As with any other update, small tweaks and fixes were implemented to further improve the experience.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d9bdb1d2-4f09-4df6-870a-cbe6feb6a186"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "As with any other update, small tweaks and fixes were implemented. For more details, refer to the release notes below.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c818e9d4-80a3-4c13-a648-c943d0a8228d"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "As with every update, tweaks and fixes have been implemented. The patch notes can be viewed below. We hope you enjoy!",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0f416702-f9f5-417d-9501-c2d03c7cd757"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Attempt to fix camera not properly updating during spectating in rare cases.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "948b9ac8-648d-4c13-b3b3-1182d5f89870"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Attempt to fix crosshair center being offset on some Apple devices.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c94bdc29-12b9-4ba5-8442-7fe7de880adc"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Attempt to fix game-breaking Pool Day bug.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "fd990e99-db6d-4cc3-bb51-ce370a998fa1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Attempt to fix long FFA queue times.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d53776bf-f9d4-461d-ae54-b3074cc4abc6"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Attempt to fix mobile/console only queues still queueing into PC players. More testing will be done.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "da5ebacb-89e0-4cdd-8c85-ce0fc516d4fc"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Attempt to fix mobile/consoly only queues still queueing into PC players. More testing will be done.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5d2838cd-30f1-4630-998f-0498d347ec5f"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Attempt to fix the \"trying to set locked parent!\" warning.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ccc952e9-b031-4aec-b67c-a147a187ff98"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Attempted to fix bugs involving black screens and matches not properly starting.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e9cb993f-0fa3-43d2-a7f1-e12f960711be"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AUDIO",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d1fd5d07-8e86-4997-aa69-3205b310d55d"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Avatar settings now apply immediately rather than on spawn.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "33beb8e8-8895-49b9-8708-9312f8fe3cc9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "509dc7d9-5032-48fd-89b9-98ad2332d0cd"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | ARCTIC RECON",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e43a0529-cb3a-418f-a120-cc7295e6af97"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | BEWITCHED",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d3e63e8c-0ca4-46ef-bc5d-50d3083d83bb"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | BOREALIS",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5817669b-f706-4825-8a77-012d9e3f7083"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | BUBBLEGUM",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "cf1fb4c8-70c7-490d-a06b-a9285b436678"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | CERULEAN OZYMANDIAS",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e2aff546-813e-4917-829c-91dd9d7b4c93"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | CRIMSON OZYMANDIAS",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3bdeee94-1fc6-4384-91cd-aa701c813662"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | CYBER CHAOS",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b8282f8d-1507-41cd-9058-697bb31bfc47"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | CYBER LAW",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "dd21a7bd-a7df-41c7-9018-71e6e2580784"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | DANCE DANCE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "fabf96b9-59d4-47da-a8b4-4ef3e81ddc8c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | DRIFTER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "160a197c-82d0-42bf-81ec-485b93d38171"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | DYNASTY",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "adf5f9cc-75ae-49b6-98a0-92be9fbd84e3"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | FANTASY",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "994075ad-8270-4846-a366-cd62c01f3e2a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | FRUTIGER AERO",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d3431ec2-6b19-4df7-b56d-4765b73ba5ec"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | JEWEL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d522668f-bbc1-447c-8005-0d4f6ebac82c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | RED SPIRAL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "213ebdd6-95c0-4858-a282-399e51034bcb"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | SHOGUN",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "255a09a6-4805-4e69-9524-ca981c9c848d"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | SUNSET RUNNER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "22d69e24-6714-4d40-ae55-9ba9190062d1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | VANILLA",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "bab2bec6-1e37-42df-9406-aad158d1722c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | VHS",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "65194fbb-d91d-40c6-ae51-44f194d6d209"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "AWP | WHITE SPIRAL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9a56638a-4783-4c26-a3ba-f01390442663"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Back to Aim",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b12d4690-b744-4122-b507-cb9e4b0e7b41"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Ball in Hand",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c85b0e09-5d91-4b7c-a165-55132b0c62ec"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Bayonet",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3bec55ae-6b77-47bf-a589-466b630a0afe"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Be sure to take a {number1} minute break every hour.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4fd18606-98aa-49cd-b48e-07c7d82a9479"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Because this feature is still new, problems with it may arise. Know that we are actively monitoring it, and that any issues with global matchmaking that could appear will be fixed swiftly.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e62a58ae-34c5-41af-b536-b517913aef94"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "BEHAVIOR",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7f36327b-5224-4334-9157-b8774cd86925"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Benvenuti",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "01201a74-fc54-448f-b842-de7415896d50"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Bienvenido",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3036ef42-613c-440b-a17a-e76620ffee52"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Bienvenue",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "baa0bcec-2b52-4028-ad19-55e71ef04c22"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Bloxy Cola and Witches Brew VKS Collectables",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5520a5c3-b232-4cf0-99a3-4de77f2e3dad"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Butterfly",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4d7ad88b-ec39-439f-b60b-39d64f5b1e05"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Button",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d2f7fb15-9c0c-4458-86f2-1a61481a5c16"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Caption",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "1357db09-934d-4906-ad23-a206c018106b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "CAPTURE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d118f2f6-984a-4942-856d-e10631bb5338"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "CAPTURED",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4b0b1c53-170b-4c4d-a7b8-4a3456644f1c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "CAUTION \nKeep this area clear at all times",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "18c4a0f5-34e3-4506-b643-8b7dbdd41dd1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Challenges are now shown when viewing the match leaderboard.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "81779f51-322b-4c0f-b6ad-df02346668ea"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Christmas Event",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c805a514-113d-4c61-a4af-fac4a4c8ed89"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "CLICK TO JUMP",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "10555d79-636d-4abc-b52f-13b3ea096723"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "CLICK TO PLAY!",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e09cf75c-426c-44d6-9b2f-204aef417444"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Climbing logic overhaul.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0357abea-80b3-4719-b0f0-a1c4971cb0e2"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Complete Challenges - Earn Limited Time Skins!",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "07f4b549-162f-47af-9aac-9bb0a5429145"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "CONFIDENTIAL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "215a4920-5961-45c5-a7f2-952b9a56920e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Confirm Aim",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4dfffab2-587c-4ecd-a96c-31775bf0d14b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "CONTROLS",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f0de6dc3-1bbb-47e0-8159-6cde8a7598b6"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Crosshair Editing",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "01a2ab9a-abb0-45a5-ace1-bf4baa83ba49"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "CURRENT MATCH",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0136a2a1-e8f2-4412-aa85-ece8a400ea35"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Deagle",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "204899e5-0043-4b9c-879a-c24a4af64f8c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEAGLE | CUPID",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "79f85289-f5e8-4329-b081-0b76fce28efd"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEAGLE | FRUTIGER AERO",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3543278f-8b5a-4ba4-8bd5-ce233c6eaf3d"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEAGLE | RED ZONE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "61aad30d-49d8-4cbf-9dc1-96b9e9f20345"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEAGLE | SNOWFLAKE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7ec41fc8-8548-441c-b137-b26aab5a10bb"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEAGLE | VANILLA",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f63175ef-8349-4641-9b26-a5e04bf0f4fe"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Default",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0b47125d-e7d8-442d-a471-23fc830609c9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | ABYSS",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e5b9aeb5-6cf6-402f-9737-fa327878b502"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | ADURITE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9bc5330d-0c58-4e2f-9f6e-88f9613c8c58"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | BLACK IRON",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4e961589-5d89-464e-b255-1169075bee7e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | BOMBASTIC",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a27b6541-f0b3-4f58-8a85-da4f2acc63c1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | CHERRY WOOD",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "06ab0508-84eb-4e8d-ab09-b2a643dcedcb"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | CRIME SCENE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0d0bd73c-6d47-406c-9435-edc96a2ca5bc"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | DANCE DANCE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "33ce8d72-c9b5-4605-b2e2-220af40a7c65"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | DARK NET",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "40703201-31ad-4398-9803-8c358d90478b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "★ KARAMBIT | Black Iron",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d36b7eda-b75c-4c77-93e5-26ddb9e11914"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | DISCO",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "90607591-050a-447a-9610-9ae7b6255159"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | FLEUR DE AMOUR",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5e4e469f-d082-46e9-bd01-877d54c2cab3"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | FLEUR DE NOEL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d98f6caf-1e72-4649-b4e2-62630df3ae48"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | GREEN STREAM",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "659ed487-007e-4dd7-9beb-72502d4bc6ef"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | HEARTS",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "01761b8a-f5f3-426f-ae38-e5e97c48c1ce"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | INDUSTRIAL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "cf0b0aef-995d-4bec-a4a6-1d317b04edb4"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | LIGHTNING",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "93c113e3-cafd-4660-b4ce-48e83acff28e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | MONARCH",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b6c42b50-b390-4855-b446-934dbf666784"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | NAUGHTY PRESENT",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "019d60a3-8940-4943-9dd6-f0ce62aa17b1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | NICE PRESENT",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "75138617-8aa0-444f-8155-fa89baadc2b0"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | OG BLUESTEEL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3c92b4b9-51df-4883-8548-e668622298e0"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | PEPPERMINT",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c62bb1f1-7298-449f-b022-f753b6b96ce6"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | PINK CAMO",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "1a755fb8-afd9-48ee-bd97-1d59ff8acf7c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | POLAROID",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9b57e26c-f294-4c23-9093-8343d321b7aa"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | REGALIA",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "6b67a0ba-b3af-4942-8d75-014e9bfa8015"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | REINDEER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "81013e49-5c04-43a2-a7f7-32adc39828cd"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | RING OF FIRE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "1924a0b7-c0c5-4a97-8c28-0b51ae01527b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | ROSE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5f27064c-4016-4012-937a-51fe331a1170"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | SHORELINE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "40a0da9d-1b8b-49fd-90b0-1a6b05a8d42e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | SIGIL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "dcdca0f0-9ab4-4e1f-87ab-838d6a1bd856"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | SNAKE SKIN",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ab34776b-30ab-4b90-9e89-3b9602e94710"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | STALKER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a67424b8-7753-474b-bdc4-0faa8eef7aa0"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | TIDAL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "aa686a7a-58ab-4e2d-ad22-7cb937c9e60e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | TRIBAL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "55c1d0bb-2e30-4549-9d73-23395fb218b9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DEFAULT | VIRIDIAN",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "31b548b4-73f0-46a4-b285-20881ac76e89"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Disabled {number1}v{number2} / trade requests for players who are still loading in.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "56e379ed-8aae-48fc-becf-26b2b3edeccf"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Disabled gifting premium currency to people who have paid item restrictions enforced in their region.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c2f6f98a-9e5d-40d2-9f09-a60fb8bbeaad"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Displayed XP on the elimination pop-ups now properly display the true awarded amount.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "617577d6-e891-49fd-8e35-2c54bc99cc3a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "DisplayName",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "35236d10-5be7-40ee-aee4-656eff4e5f55"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "ERROR JOINING - THE SERVER HAS ENDED.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f5b4034b-e999-4bdf-9931-050b97574fb1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Exclusive skins are now awarded based on your position on the TOP SUPPORTER leaderboard. Be careful though - if your ranking drops, your skin will be revoked. The TOP SUPPORTER leaderboard now includes a Monthly tab as well.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e5dd645f-a90d-4efc-81f6-e3f1bea2179e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "EXIT",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4f56ddad-31a5-41c8-a352-89c7c3e6790a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "EXPERIMENTAL: Added new mobile Gyro Aiming controls under Settings -> General -> Controls.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "1b38cebe-c4ee-4852-acce-534ad895ceb9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "EXPERIMENTAL: Dead characters are now cached for faster and more optimized respawning. Report any issues that arise in our support server.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "008966fe-c4aa-4bb8-947b-51781874a874"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "EXPLOSIVES",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8a3a95ee-dcf7-425f-8ee2-6c2814bff8d3"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Festives now work similarily to FragTrakrs for weapon upgrades.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "98a2a1c9-13a7-4c71-8ec0-486c5132d178"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "FINAL KILL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "fbbc6a6a-c298-4b14-b203-d2f1abbf7fa0"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Final Kill-Cams, Construction, and the Shoot Yard Redux",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9485058d-f39a-49e7-aa20-94f1809a2ef3"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fine Aim",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "21c6f6d7-6ca3-4f8a-8f5b-3d2f2a5d635b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed \"DEAGLE | RED ZONE\" Mint Condition having the wrong NormalMap.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8f4f0120-0ed9-48b4-b3f8-31ec71a5bfea"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed \"YOU ARE BEING REVIVED\" text getting stuck when the person reviving you dies.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4e0916fa-7b2c-44b7-8061-40efeb4076a4"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed {number1}-Ball Plus causing massive frame drops.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d7752e65-de3e-4d1c-84aa-1c53d36b6522"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed a good bit of exploit spots.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "18d5a794-e911-48ad-aeb9-2f2b25fcb496"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed a visual bug with inventory filters.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "2c66f4f3-b116-4a3b-b39b-766de59d05d0"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed an exploit where a player can bypass the max. {number1} item threshold.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7173ef5c-13ad-4bfa-b954-123e019e0cc8"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed backend bottleneck causing server lists to constantly fail.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4c5cab46-1131-43ba-961d-df6f9df44bbb"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed becoming slower for every round that concludes where the player is alive and not holding the melee.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "10a5c054-4930-4a90-920f-5300b73382c1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed being able to clip through the floor on Lockerroom.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "57e89b61-e9f4-48d7-a225-d2acd7521c5b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed being able to set invalid values in settings.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5785ab15-55a7-4deb-98cf-7d54d77aa253"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed being able to use the Lobby UI inside matchmade servers.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "6d0734b5-0aee-47ab-95bd-7002b834fd8f"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed camera whiz roll, heavy landing, and damage flinch not conforming to the camera animations setting.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8d608eaa-5eb3-41e6-9628-b32104e51a10"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed character interpolation delay. You should notice far less players lagging / teleporting.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e08810bf-312f-475c-8759-8dc7d4e56965"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed character sounds not being initialized immediately when joining an ongoing match.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b07e4e32-6733-4f7f-a007-31f000487089"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed crosshair offset on most if not all devices.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "da38228c-fae9-4bbb-9260-53d206dddded"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed dying while reviving breaking your inspect bind.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9ffcf988-a6e3-42fe-b3e5-9b09af0284df"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed exit match transition stopping half-way caused by slow asset loading times.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "339478db-3617-4ae8-8d2d-8c6f8b09dcb1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed exiting FFA in the lobby still putting you in the next match (if one is queued) as a spectator.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "dc934e1f-6748-4077-8299-5e3d3914a2d7"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed getting stuck and having unused maps persist when spectating a match that is concluding.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "cb4e0ed9-0602-40b7-b168-5cbe69a67a5a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed having freecam access when spectating after being placed into an already existing match.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0e681d77-3289-415b-8ebd-10e328f88b79"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed hit/fire rejection that is caused by unequipping the sniper before the server registers the shot.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e6cfe9a8-7bad-45ef-99c2-22a1ce86599f"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed leaderboards getting stuck on \"REFRESHING...\".",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0a6db378-36b7-46a3-b8dd-2019fbf9843a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed match killing everyone and immediately ending in a tie caused by a player failing to load in.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "bcd0d392-3e9f-4901-9c6d-ac30ebb3f1ec"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed matchmade matches sometimes not respecting minimum player count and teleporting all players back if the intended player count was not satisfied.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "315de28a-a6fc-4d9e-8d76-bfe8bec13e60"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed matchmaking occasionally allowing players to join full ongoing matches.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4c11d033-3c30-474d-9d87-d2948c1bfb32"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed mobile controls editor.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "33662589-d909-4f55-8b3d-aa713fc80eba"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed mobile movement buttons not immediately showing up after sending a {number1}v{number2} / trade request through a player's stats.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "df646120-44e7-43a5-bb3d-3ae7bf7c9eb5"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed mobile speed glitch.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e7117bb8-8c04-4153-8f3b-3e961baf88b1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed most final killcam issues.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "090c6f8c-e2d4-4cc9-911b-ff36f5e2374a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed mouse cursor appearing in the middle of the screen during the start of a new round.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "219b5864-746c-471d-836a-2ed72ae4156a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed one of the pool tables not allowing {number1} players to start a game.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "2c5610c7-b14f-4905-9cf2-a90ba41c77d8"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed or reduced AddAccessory warning.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8cc0d463-5c78-478e-9633-4c35690ceb3d"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed or reduced daily rewards cases not being properly awarded.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "036f261f-eab4-46f9-9396-c8b6240b468e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed or reduced FoV glitch when crouching under certain spots.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "95d9bb98-091a-480a-a0c3-cd3492cb6f92"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed or reduced matches breaking during the map vote and leaving all players in the server with a view of the sky.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "484d1146-406c-4df6-99a1-69d4bcdb4a8d"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed or reduced players showing up on the top HUD more than once in FFA.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7867df93-0951-47d1-987b-d8499ffa8110"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed or reduced some players having the offline icon displayed instead of their device.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "397db6fa-e26b-4b29-80be-573fbf352242"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed other player stats & other player inventory displaying in the background when accepting a trade.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "74188799-c687-4be7-9fa9-422da374c9a7"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed player portraits looking the wrong direction.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0ac47a82-15b9-4287-9c28-c7834ab07f92"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed region end-point error resulting in every server having an unknown region.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "987e454d-3745-4f29-8215-2a9d0a0afbca"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed soft-lock when falling off the map in Free-For-All.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b3e8ce38-523c-4782-a9bb-884293914033"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed some hitreg errors.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "caf229e4-3a3c-4d22-8b3b-0f78c23cea65"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed sometimes spawning in without your gun equipped.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7646b3fd-e598-4b53-a7bd-2732a939e4ff"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed sometimes staying in a match when failing to load in individually instead of being teleported back.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "eb87e794-61a1-4c25-acc8-3ff4ae234dd1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed the \"X VS X\" pop-up not appearing.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "15021ec2-fad3-4f0b-8c58-58cab2e1aff2"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed the leaderboard having incorrect positioning for players.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0ce7d336-aaac-461a-a4e1-53549c85ac36"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed the Toggle Aim setting for mobile controls.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "fcadf896-64a5-4d20-9c0a-37007bc9f204"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed top in-game UI being displayed during the final killcam.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7bebd16d-5fbd-4d99-ba95-05104ace81e8"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed trading hub server list.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9ea62f58-6321-4392-b27d-de4cb0eaa2f0"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed visual bug with jumping off the map and dying in Three Strikes.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "23565cef-39ce-4b4d-8d2c-b12389a6dcad"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed visual discrepancies for the inventory when toggling filters while in delete mode.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "09d24d90-7658-426e-be09-f4cafa61231b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Fixed visual discrepancy regarding rarities when viewing a case in the shop versus inspecting a case in the inventory.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "cc1aa6dd-ba60-4993-8f19-c70555103316"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "FLAPPY BOX",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "70176922-4487-49bc-9f76-5cd503d98c63"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Flappy Box's music now respects your Music Volume setting.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8837cd55-eb85-4fa9-b2e8-c433953e0607"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Footstep sounds are now material based.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "72ced99b-ef7f-4051-a94a-fde5b866c537"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "For the \"TOP SUPPORTERS\" leaderboard, please keep in mind that spent robux was not tracked in the first {number1}-{number2} weeks of SNIPER DUELS' release.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "68779ee8-07ef-4cae-be36-153c2dcee614"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Four new achievements have been added to the game: \"Godlike Shot\", \"Guardian Angel\", \"Kill Milestone Mastery\", and \"The Infection Spreads\" ...\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "bb4438f9-da29-48f2-bdb2-11f9f137f821"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr AWP | DANCE DANCE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "73deaac9-7c33-4057-bc67-52b87aa60837"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr AWP | DRIFTER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ce128149-56f9-4766-b8a6-674c02195b73"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr AWP | SHOGUN",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3f68346f-261c-4928-87d0-1805f779ad13"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr DEAGLE | VANILLA",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9ee04272-82b6-4027-996d-1095971cbdc8"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr DEFAULT | CRIME SCENE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "04f53589-4b80-44af-b56a-3845c56aace8"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr DEFAULT | DANCE DANCE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "875cafc7-4344-490b-8253-2be86146a521"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr DEFAULT | DARK NET",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "2446c7df-323e-4f73-acfb-4e47223fe316"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr DEFAULT | DISCO",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "2fd3e099-46cc-4703-80df-28f262a18e98"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr DEFAULT | INDUSTRIAL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c6a97f52-1a6e-4666-bc28-360ac94043a1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr DEFAULT | POLAROID",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "37d7ec61-6e7f-44db-8aa2-a736eb1c6cdd"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr DEFAULT | TIDAL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7bb429a2-dd91-43e8-8ace-da0875427e5e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr DEFAULT | TRIBAL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7776bace-b25e-4b08-9ee1-3347226b53ad"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr INTERVENTION | BLOSSOM",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "18735f0c-5abf-4d80-a1ec-226f549f3b43"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr INTERVENTION | HEARTBREAK",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8071b54f-7e51-4c81-aaaa-3433af03c769"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr INTERVENTION | VIPER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0b297ad8-ef01-451f-a433-2ef5229f6575"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "fragtrakr SHOTGUN | SHOTGUN OF DESTINY",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a152d432-e19e-4b80-ad54-f2777b070b7e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "FragTrakr visual errors on Karambit & Butterfly fixed.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ec731bb0-9ce2-4f26-ad0a-77fab4f4b3e1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "FREE FOR ALL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "44dcf59d-0c5f-4d2c-a290-a8c57fe40bc9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Free For Not None, But All",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ae1dec97-815a-4117-9dcb-3f43791e52a4"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Free from the shackles of APM Music, SNIPER DUELS now features an original soundtrack. \n\nLobby music has also been added. If you prefer the quieter pre-OST lobby experience, you can adjust the lobby volume separately from the main music volume in the settings.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "6d7b75c9-6627-4595-b6f4-b172590b1d96"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "FREE-FOR-ALL EVENT",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "cec272fd-ac04-4a38-9765-99384da5bced"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "GAME OVER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3592631f-bc05-404e-9371-9438c41870bd"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "General stability improvements.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e309ef4a-f746-4b98-916d-60a42ad41aac"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Global case unbox messages are now delayed from {number1} to {number2} minutes.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "09b6fbfd-415f-40ee-adcc-5b0609479af3"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Global matchmaking and a Free for All mode is in the works, stay tuned.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e7577baf-c506-40fc-a4de-7bea26779a74"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "GO!",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "22755261-6b5a-480b-bcf2-80928d302ece"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "GOLEF INTERNATIONAL IMPORT",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "6c434c71-cbcc-43e0-a4fa-690167e88bb3"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Gulag: Available in all standard modes and two of the new limited-time modes.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9ec680bb-ddf8-4cc2-aa11-3d2b142cc552"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Handle with care",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4314a9c7-45d4-429f-8373-b1b1f78ad61b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Happy valentines day in advance! With this update comes a new valentines day themed case, one new map, two new collectables, and some tweaks/fixes.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "17364960-73f8-43c0-87d4-d043d20a8ba0"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Here be dragons!",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "dc70a727-1d12-4732-8a7b-a85d66eb770c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Hi we have updated the game Xd    We also added limited time   april fools case  get it quick  its   {number1} day only\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f0989d38-f0a1-4ada-a58f-6462f5e80f47"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Hi we have updated the game Xd    We also added limited-time   april fools case  get it quick  its   {number1} day only\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b80da169-f3ff-460a-8f71-23573e5f27cb"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "HOLD",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "00fae928-86d6-4217-b139-24960ca77b75"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "HUD",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0d4a09c4-6cd6-4c3b-b96f-5a34d7bbf0a4"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Implemented a hacky workaround for a roblox engine bug which caused the torso to be stuck in place during killcams. Torso animations may be slightly out of sync for the time being.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a764aa8b-6164-4277-813f-0d1bc86ee743"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "In case you've missed it, we've added a brand new map into the pool: Outpost. Outpost is playable in all gamemodes.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "436f383c-2e05-4802-b543-03c8979e2a2f"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Inspecting a skin will now preserve the sound of your previous camera position from the lobby.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9334a367-3fbe-4420-99c0-20740d6d925b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "INTERNAL SERVER ERROR.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4d896ac5-332e-4822-b3ad-cc4f10ec90e9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Intervention",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "cdd4327e-0a60-4ac3-955f-4a095af98e09"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "INTERVENTION | APEX",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8fcf49a0-d4a8-4a23-b9ad-021189665373"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "INTERVENTION | BLACK VALK",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9c6f3d22-fbd4-4481-bbb9-7ff0534f6245"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "INTERVENTION | BLOSSOM",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "67acf265-17ce-48f4-aa35-e59a892d0e2e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "INTERVENTION | CODEC",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "389adc3e-1c75-468b-a9bf-84ef033e396c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "INTERVENTION | EVERGREEN WINTER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "fe378b3b-6d92-496d-b088-666dd02b6e97"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "INTERVENTION | GINGERBREAD",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "dea4d7a1-3cad-455c-acc0-b7bb60931e8a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "INTERVENTION | HEARTBREAK",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3315c552-f8c1-489a-b3cc-86f98801d82d"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "INTERVENTION | REAPER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0fec34a7-e92f-401d-901c-b729dbaccba5"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "INTERVENTION | VALKYRIE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4d916d46-7504-492d-8a0f-cf6f8f99ff25"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "INTERVENTION | VANILLA",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "820f3298-8044-4925-9c43-1c80d3301c71"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "INTERVENTION | VIPER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7766a9a1-4e42-4239-9a4e-703dd416626a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Introducing a new map, this time more interior focused - Lockerroom.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c5179889-823a-445a-bde3-6f2a6d05cea0"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Introducing Festives. Unboxing a skin or purchasing a collectable from Dec {number1}st - Jan {number2}th will have a {number3}% chance of applying festive lights. Festive lights can only be obtained on guns, knives are entirely excluded.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ffd0fed0-dcf2-4dc2-8b45-2014398a08c4"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "ITEM IS TIED TO UGC LIMITED",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "fd509976-7ef2-4f35-9018-a265da44dc2a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Jumpshots now appear on kill notifications.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4fcb1c4b-3d9c-45d2-92cd-7287c9d79c41"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Karambit",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e5b439e0-4d63-4d30-a763-8b43c3a17166"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Katana",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "dd32c944-3559-457f-974f-eec778e86235"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Knives correctly positioned for match end screen poses.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7814cb15-76df-469d-8da6-b2d795862658"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Label",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e7a3b9de-ecf9-406b-a7aa-6395556b86f9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Lakehouse: Playable in Free-For-All, and three of the new limited-time modes.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "84e85cb5-5a95-4db4-be2e-d50a4a92eb07"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Layout {number1}",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "cff0a5cc-b191-4343-9995-e154399f98fc"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Leaderboards have been tweaked to work with top supporter rewards.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3037ebce-50bf-406d-a357-7877fea7675f"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "LEVEL {number1}+ REQUIRED",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e47a29d0-c428-436e-9cdf-fd57ac8b7730"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Level requirement increased. ({number1} -> {number2})",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "060bfff3-5e0f-40ab-950f-a08dd369ac9a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Limited-Time Modes",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7222e438-4989-4ead-83ec-240092c8f674"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Lobby holsters correctly positioned.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "650d2492-647d-4d90-a024-c69760a80aac"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Made the racked balls on POOL DUELS randomized.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f277ae08-2ac3-4627-9ab2-e95cca501e20"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Major spectating improvements.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4f0bab82-083b-4d75-8c59-d92855eafee9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "March's St Patricks Day Collectables",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "636ca40f-9454-419d-8ec4-658e77c4c8fe"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "MASS SHIPPING",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "97db33ae-c954-4f20-bedd-136248ff7f73"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Match over",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "68cf09d7-5fea-4379-b9e3-e622ad76bbbc"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Matchmaking",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "59fc045e-42e1-4bd5-a4b4-a58afcfe66b5"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Matchmaking has (finally) been added to the game. You can now click the \"PLAY DUELS\" button to queue up for cross-server matchmaking. Mobile and console players also have the ability to queue only with other mobile and console players. \n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9e9afb9d-17c3-46bb-8370-ff93bcc6b00c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "MINI FIX | VANILLA",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "019f930f-2ad0-453b-8e28-ec86f1cfaef9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "MiniFix",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b3c05f67-4af3-453f-b63e-5d6a8dd8e963"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Mobile movement buttons now hidden when selecting a match to queue.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "60fe08fa-04e2-413a-88e2-01637c6aaeff"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Move Cue Ball",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b0fe80d6-d2bd-4f83-b7fc-dd4d43fc6c5e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Music has been replaced with an original soundtrack.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e2b0d3ff-2533-4fec-a079-8e31e34de1e4"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Network improvements.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "1543cdd2-d3cf-41ad-b565-5cf1b28c70b7"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "New Case & Collectables",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "319fc43a-8e5f-4c28-beb9-68024b2a7f6f"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "New Case: Skin Case #{number1}.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "765cc959-8984-42ba-a52a-c134a6c019b8"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "New Collectables: Ascii White and Frostbite.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "705a0ad7-e4c9-47f0-9e7c-58fc772d02bb"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "New Knives: Karambit, Butterfly, Survivor, and Katana.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4a8baccc-5e9c-44d1-9c93-1dff69365aab"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "New map for all modes: Shipped.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "54ceac57-04ae-4005-849e-1e38210e8972"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "New Map: Construction",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5e02df77-2f20-4a5d-ac7a-2436ca7b3b32"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "New Map: Lockerroom",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ea8e5805-cb08-4702-a442-d907c3daca6e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "New Maps: Lakehouse, Gulag, and Bank",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c418a264-a194-4c99-ab1a-0be48feff8e8"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "New Mode: FREE FOR ALL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "6e471fdd-7b9e-4b30-a7c1-2e44e6f11d9d"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "New Mode: FREE-FOR-ALL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "fd614c40-ac37-4999-93dd-b082ea52dba5"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "New Mode: POOL DUELS",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8147668d-ee18-4c41-b41e-92f8845c47fc"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "New Original Soundtrack",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "dbf9b43f-96c7-408f-9d98-9a0a76d1988f"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "New Voice Chat System",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c865365e-f70b-4e1c-97ad-abc8bc65d558"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "No servers found or failed to find servers.\n\nClick the button below to quick join.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ed755488-bb74-4505-9a17-48cef959d8fe"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "NOTICE: You can not chat with this player.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f8a33a79-2a04-4866-9be7-6702dc7fd2ef"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "OMAB {number1} GROUP",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "14c7e23e-0784-4db5-b5c5-90b3545d69ff"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "OPEN SHOP",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f5b74c27-ba4e-4eb8-b153-5dc3fa6f7f90"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "OPPONENT'S TURN",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "96d93492-21fd-4f3c-8ae4-624880527ff1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "or",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f4bef31b-9340-40e1-8d51-e5ea9f1cfa59"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "OTHER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "991b40d6-9d23-45fd-b977-cdc5eaf42eca"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "OUT OF AMMO",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4d515b40-7e00-4307-895d-cbda8b960a77"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Outpost",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8ba7e867-f18e-4730-b24e-388677c12250"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Overhauled the voice chat system.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5055abe1-d3e6-42f3-b7f7-bd1c22cbe768"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Overtime",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "25d35482-cf54-45e2-ab44-129cfb41c7fc"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Overtime has been added for the default duels gamemode.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8490615b-096e-4d65-afe3-7fb7444476d4"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "PATCH NOTES ",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "6e88e718-61d5-46a2-bc91-3e0fd025da34"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Place Ball",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "6cafa561-5050-4239-bf23-b28ddf935744"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "PLAY",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "6186cd78-080d-4eb8-8ea0-b7a8161ccc87"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "PLAYERS",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a5949db0-e976-489d-9934-5d064eba652c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Players being killed with the Cash kill effect no longer puts them into spectating immediately.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4a5df758-5c7e-4ac7-8ff2-7fdcd52ca851"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Players can no longer kill each other during the round conclusion screen.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e3ceb3c9-1d44-4944-8b8e-4ce731e1973b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Please verify your Roblox account to gain access to features.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "97060df4-e7ad-4dd0-994a-6cda8e7650e1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "POOL DUELS - Wait... huh..? Also, new skin case.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "56e7c08c-7aeb-4ea0-bee8-8bb7119fac1e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Post update release addressing most remaining issues.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8f49091e-85fc-497d-8e5b-632d627501c6"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "POWER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "526dc2a0-b3df-4206-b510-3d1b96cca331"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Premium Currency trading added back; Note that if any problems with it arise we may disable it again. Thank you for understanding.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5af494ee-8fa0-4e32-b4cd-9e66d4436704"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "PRESS A TO JUMP",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c7d1d2e1-9f39-4fad-9c98-14bb9897507b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "PRESS A TO PLAY!",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "06817b26-3511-4335-9438-0c320690d2af"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Prioritized servers (servers with friends) no longer show up in the wrong gamemode serverlists.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "6a1bdef4-cab9-4ea7-85c4-69d5b78f82b2"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Private server matchmaking pads are no longer restricted to equal team sizes for starting a match.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c16c6d48-6b7e-4b32-958d-51e7854cfd46"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "PROTECTED",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "705a1346-e07b-45ba-9a06-8af99ce7616f"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "PURCHASE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "267a1e50-56ff-4c21-8d03-b9f70cd4a3c0"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Queued FFA matches will now conclude when there is only one player left.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "038aca9f-ddc7-4a75-9722-1d3d6ba47b71"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "READY?",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3adb1221-31a1-4db0-9303-f2cacc1265b2"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "REGULAR UPDATE ",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "6c254ee2-a180-4529-9ecf-198512486c0e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Release Case will be taken off-sale on January {number1}th, {number2}.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "770d3557-3a16-46a8-86a5-e68c9de29cd6"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "RELOAD",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "994aafb9-787a-4eef-8d08-c7184a0720a2"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Reset Layout",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4a845a76-5383-49a5-ad1c-0e7d589a8619"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Retroslop volume is no longer Loud.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f3be2cd8-9a30-444f-bfa3-b920f8f65edd"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "REVIVE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "81e7e159-47d3-4097-a54e-3d5311911190"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Round timer has been decreased to {number1} minute.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "63180525-a925-427d-86e1-e30d077be47b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Sample Text",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "48079488-5e05-451e-8894-5281fd643af9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Save & Quit",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "663edd3c-58f8-4a7a-b21f-33630e3a4d07"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "SEARCH FOR MATCHES",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f6ff012d-af78-4940-9dbe-4c36fe952b96"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Select Mode",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "4dd5f44b-2a80-4969-8cdc-b5b5b2784922"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "SET POWER & SPIN, THEN SHOOT",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "28e42ed7-951f-4c15-948a-079d1b530a3e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Shipped",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "27c71231-ff3e-4689-8c06-7b1069ff6b3c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Shoot",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8be24c1e-25e8-41cc-84b6-319d8d1bdc74"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Shoot Yard has had a long overdue visual overhaul to fit the game's set build aesthetic. No longer is it a direct rip from BOMBLINE.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "93ff6aaf-375c-48a9-a679-bf19e7632362"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Shoot Yard Redux",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "814d0923-4baf-4a5e-b9de-ddabd3c2ba23"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "SHOOTING RANGE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "16e219ad-5bd5-4985-b395-4a174f9e8fe8"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Shotgun",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a0ef716f-f061-48fe-9d60-4c22c5b6949e"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "SHOTGUN | ASTRA",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "dcc877b3-d8bc-4d89-adb4-8a1dd2e62747"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "SHOTGUN | EPIC FACE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "848a1369-2932-433f-a8d9-912a682592b9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "SHOTGUN | GEMS ARE INFINITE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "2139d5f8-9b31-4624-b4ed-68fc1ba0927f"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "SHOTGUN | ROYAL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "45266c08-ce45-4e98-9c35-7a64736c4804"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "SHOTGUN | SHOTGUN OF DESTINY",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "caa8b26a-62c6-453a-9376-66758660410a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "SHOTGUN | TRANSPARENT",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f13df5e9-a310-49a5-a882-65475a08fe28"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "SHOTGUN | VANILLA",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "daf3aa17-4640-4c29-a4ca-b37f9c425337"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "SHOTGUN | WANWOOD",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a1f2dd55-68e4-4c6b-b525-5889150f262c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Shoutout BOMBLINE.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ee3132cb-7867-40a5-a08b-4274b459bae4"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Skin Case #{number1}",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9fc76dba-96a3-4a03-bd23-be9f1c97ab2b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "SKYLINE SKIN",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7244102f-c628-49cb-9f07-fa0b04825f53"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "SNIPER DUELS Update",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "502ce832-f10e-4ce8-926a-4deb9bf14c5a"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Spectating a player highlights their top display.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "cfc76d77-7231-4267-95f7-57be2d89e145"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Sprint input is now buffered when attempting to sprint while unscoping.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "019d54f1-a2ad-4d68-9454-2377a5addace"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Stability improvements.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5c6260c8-2a6c-464c-b8d9-aaaf144f6f69"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "STARS AND STRIPES SKIN",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f775328b-0944-454b-9d30-78f8f6d79057"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Starting...",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c7a98da5-35d8-4c5c-9967-1a6499920c84"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "STYLE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "bbe4116a-3b56-49fc-8ea2-ed1ce3746d81"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "SUNDOWN DINER",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7a6e8b92-90e3-4895-8a63-b3c42f4d6f06"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Survivor",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "1f903131-0a2f-4fb6-9a19-d8d21bfef226"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "TAP TO JUMP",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c74f77a6-3c7e-4e31-a56e-12123b5521b2"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "TAP TO PLAY!",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "67a9156b-62b1-4a1c-824c-b09067c5b6b9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "the awesome the Update.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e1259f21-e262-44c2-a15e-71c273eef633"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "THE FIX | VANILLA",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "90c80022-ff96-4ef4-adcf-a4d537381564"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "The LTM Update",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d59c0879-e21e-4c0e-a107-a595ee054716"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "THE UNKNOWN COMING",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "292bbb08-6cac-45e4-af77-867e4e2d6746"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "The Valentines Day Update",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d07adbaa-993d-49da-989e-cacf6dcd8e45"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "TheFix",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7add15c6-5901-444f-87f8-982694117168"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "This update also includes various bug fixes and tweaks. We have a lot more planned for the coming months, including two new skin case releases, limited-time modes, a UI overhaul, community submissions, and more. Thank you for your patience.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "39d4406a-a81f-42ad-bc5e-4a6954985834"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "This update includes other various additions, including quality of life changes. To learn more, please read the patch notes below. Thank you, and enjoy.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8c615164-df8c-41fa-aaa3-b9a4547909f8"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "TO",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b7a1e0c5-599f-481b-801c-731f7fc9d6c9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Today's update includes a new map, a new skin case, two unique collectables, and the new Trading Hub.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "068c242c-d63d-4f14-876c-6b69a686845d"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Top Supporter Rewards",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9ce3a1c5-b9e6-4489-aa71-b0a032ff0926"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Traders, we've added the trading hub into the game! You can continue your business among other like-minded people within a separate location.\n\nYou can access the hub via the new gamemodes button at the bottom of your screen. Do note that you must be level {number1} or higher.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "70af5c14-efb5-490a-a397-477bd635b2bd"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Trading Hub has been added.\nHi",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "2a31aedf-a3c8-4c58-8114-51483272c918"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Trading Hub lobby optimizations.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "fcf5f815-91a9-44b2-ac24-4e5b06521a0c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Trading Hub, New Map, and More",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "13559a46-61b2-424a-b005-38aec606a711"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "TURN BACK AROUND BUDDY",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "283709c4-611c-4353-8642-194c286b65bb"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Tweaked the currency increase sound.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "84450e2d-9dca-40e8-bb25-6fb713933ff5"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Update log UI bullet point text cut-off fixed.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "842d2d55-ce09-40de-afb1-35a656c591b1"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Updated gunshot audio for snipers.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "17378610-02b6-4324-8e0d-0fd0d7a9da4f"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Updated the Default Sniper base model. Already existing skins that use the old Default model as a base are not affected. New skins will use the new model.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "26b8625b-177e-4b2b-a908-7bd0c011b959"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "UPGRADING.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "350f54e3-1a22-4d9b-8998-1d7f1a0d338b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Upgrading...",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3abe0c04-cd3e-4f70-a022-cb7d12fb6f2b"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "UPGRADING...",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "00269f0b-2a5a-4172-8a06-d9a0258e33c8"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "USERNAME HAS FOULED, BALL IS IN YOUR HAND",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f33ff04d-7518-4107-a796-37ecd219fcd9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "VALDERA EXPORT",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0a92103e-54f1-41f9-a759-a56ce31ad4a9"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Valentines Gift and Collectables",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "5170cc93-f3c7-4a20-b2a9-14fd995aa396"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "VERIFICATION NEEDED",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "37ed5784-37d4-4673-b96a-6e6dda3ecd49"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "VIEW STATS",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "aad4e4fe-16df-47b2-8778-1d22ce521fb2"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "VISUAL",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "153093eb-2756-4c4a-a5e2-613117ea2563"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "VKS",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "8b6084a1-b946-453a-a1de-b95db9be4392"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "VKS | DISCO",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "a44c445f-64cf-4382-a950-caff956fe6e7"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "VKS | JIRAI KEI",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "de52349f-18bf-4807-b087-d86384d5631f"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "VKS | VANILLA",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ed7671d8-3d8a-4947-aa19-265efa256970"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "VOICE",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "2b307c10-633f-4db9-80b1-f3e175eeeb29"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Voice Muted",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f241a885-6bc3-4fc8-8dd4-a93a27ab40c3"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Voice Volume",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "38b1ec39-a56b-4f32-aee5-3da5fd0b05e0"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Voting",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b9a17eb3-c4af-4332-b23f-e6c8773a61de"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Walking and running movement now have strafe animations.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "660d9a4d-1366-4562-80d1-d772777b40ad"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "We welcome three new maps this update.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c0b14d53-f99c-4e3b-b4fd-e1c3a501f7c8"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "We're introducing achievements this update. For kill milestones: if your total kills already exceed the requirements for one or more milestone(s), you will be granted completion for all of them on your next kill.\n\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "283160b6-6f0d-418a-a18a-c54041833661"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "We've added new limited time Bloxy Cola and Witches Brew themed collectables in the store for a limited time.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d6fe023e-8fe8-43e7-b6c4-aa900556ae13"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "We've added new limited time St. Patricks Day themed collectables in the store for March: the Celtic AWP, the Celtic Deagle, and the Shamrock Shotgun.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "06acc0b4-3ba6-45ae-b13a-0c996fd71f0d"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "We've added new limited-time Bloxy Cola and Witches Brew themed collectables in the store for a limited time.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "c9aca9b1-fa08-432a-8947-9d2e9c8b08c7"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "We've added the Valentines Gift case and two new collectables: For Him & For Her.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "f0837370-e575-4005-b897-3276daa80741"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Weapon camera animations no longer have an effect while aiming down sights.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "b8450484-ec21-420a-a383-6a88ebd7652c"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Weekly case drops are now randomized with whatever is currently on-sale in the shop.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d6ca1c63-a32c-43c3-956d-b556ecf1d124"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Weekly case drops are now untradable.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "e4e2ee7e-3e43-4c96-a838-a98d4787de34"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Welcome",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "ca319de0-528c-49c8-948a-6fdc00f74c61"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "When the match ends, everyone gets to watch a slow-motion replay of the final kill. It’s meant to be a fun way to wrap up the match, so be sure to land some crazy shots that’ll impress everyone watching!\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "d9645eba-b5bc-420a-8983-5cc5af4b8c27"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "When the round timer hits zero, overtime begins. A capture point then spawns on the map (usually the middle). Securing the point or wiping out the enemy team will grant you the win.\n",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "288722f7-03a7-4eef-b0a1-602be7fca9ce"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Willkommen",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "2f34ed77-8023-4b2a-8a53-c1669ebcb402"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "Winning, then leaving before the match end screen shows no longer counts as a loss.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "3134dfe3-2199-49d6-8a6a-958a269e5981"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "You can now stack up to {number1}x of the same case in a trade.",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "9d037002-9218-452b-93a9-8d5ac405e151"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "You can now trade Premium Currency (as long as it complies with the player's regional policies).",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "7f9bfe68-4f74-46e1-9e25-baf756290fff"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "YOUR SCORE: {number1}",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "72e46bd6-ada0-4d69-aa5f-f654373faa44"
+    },
+    {
+      "key": null,
+      "context": null,
+      "source": "欢迎",
+      "translation": null,
+      "ingestionVersion": null,
+      "entryId": "0ee20df4-d80c-463d-be3b-5b1e5129d339"
+    }
+  ]
+}
